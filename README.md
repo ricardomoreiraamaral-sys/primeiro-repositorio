@@ -1,2 +1,2 @@
 # primeiro-repositorio
-escrever depois........
+Repositório criado para estudos de programaçao em linguagem HTML e CSS
